@@ -5,11 +5,11 @@
 
 In one of my favourite Lionel Messi games in the UEFA Champions League, showcasing not only his immaculate understanding of the game, but the team's chemistry, this project analyses Messi’s performance against Tottenham Hotspur at Wembley during the 2018/19 group stage. Some of his events that were looked at were his:
 
-– 🔮 Dribbles
-– ⚽️ Goals
-– ✅ Successful Passes
-– 🥅 Shots on Target
-– ❌ Shots off Target
+- 🔮 Dribbles
+- ⚽️ Goals
+- ✅ Successful Passes
+- 🥅 Shots on Target
+- ❌ Shots off Target
 
 ![till](https://github.com/Siphe247/Lionel-Messi-vs-Spurs-at-Wembley-UCL-2018-19/blob/2b2ba44a33104dca1bdc581c40be74538ba200b8/Messi%201st%20goal%20vs%20Spurs.webp)
 
