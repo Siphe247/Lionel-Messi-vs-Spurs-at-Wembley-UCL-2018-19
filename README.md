@@ -22,4 +22,4 @@ In one of my favourite Lionel Messi games in the UEFA Champions League, showcasi
 
 
 # 🚨Update:
-⏳The flagship project is in its final form. I just need to fully event tag the second game and create heatmaps of the players that had a rating above 7 or had a goal contribution! 
+⏳The flagship project is almost done. I just need to fully event tag the second game and create heatmaps of the players that had a rating above 7 or had a goal contribution, then we are good to go.
