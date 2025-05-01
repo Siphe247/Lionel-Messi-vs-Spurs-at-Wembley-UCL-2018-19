@@ -12,20 +12,14 @@ In one of my favourite Lionel Messi games in the UEFA Champions League, showcasi
 – ❌Shots off Target
 To name a few and which stood out to me.
 
-To list the events that Lionel Messi completed in the game:
-– Successful Pass      40
-– Dribble              16
-– Unsuccessful Pass     8
-– Foul won              3
-– Dispossessed          3
-– Tackle                2
-– Shot on Target        2
-– Shot off Target       2
-– Goals                 2
-– Tackled               2
-– Free kick             1
+![till](https://github.com/Siphe247/Lionel-Messi-vs-Spurs-at-Wembley-UCL-2018-19/blob/2b2ba44a33104dca1bdc581c40be74538ba200b8/Messi%201st%20goal%20vs%20Spurs.webp)
+📸Messi's first goal build-up against Spurs
 
 
 ![till](https://github.com/Siphe247/Lionel-Messi-vs-Spurs-at-Wembley-UCL-2018-19/blob/0675b5dfa2d979e88006bf800cd09b8aa45afabb/Lionel%20Messi%20celebration%20GIf.webp)
-📸Lionel Messi celebrates after scoring his first goal, makiing it 3-1 to Barcelona
 
+📸Lionel Messi celebrates after scoring his first goal, making it 3-1 to Barcelona
+----------------------------------------
+
+# 🚨Update:
+⏳The flagship project is in its final form. I just need to fully event tag the second game and create heatmaps of the players that had a rating above 7 or had a goal contribution! 
