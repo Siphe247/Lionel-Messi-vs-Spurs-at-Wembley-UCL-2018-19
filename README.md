@@ -20,6 +20,9 @@ In one of my favourite Lionel Messi games in the UEFA Champions League, showcasi
 
 📸Lionel Messi celebrates after scoring his first goal, making it 3-1 to Barcelona
 
+The link to the video used is ⬇️
+🔗: https://youtu.be/0Wx3f_gJNAo?si=O3l1W6_zasr_BR6U
+
 
 # 🚨Update:
 ⏳The flagship project is almost done. I just need to fully event tag the second game and create heatmaps of the players that had a rating above 7 or had a goal contribution, then we are good to go.
