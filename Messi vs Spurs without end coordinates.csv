@@ -1,0 +1,72 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+ Barcelona,Messi,Dribble,0,55,54,37,49,46
+ Barcelona,Messi,Successful Pass,0,56,48,49,13,73
+ Barcelona,Messi,Successful Pass,1,22,53,23,59,19
+ Barcelona,Messi,Dribble,1,24,46,81,35,65
+ Barcelona,Messi,Successful Pass,1,40,52,43,54,53
+ Barcelona,Messi,Successful Pass,1,43,52,69,47,85
+ Barcelona,Messi,Dribble,1,58,64,32,66,25
+ Barcelona,Messi,Successful Pass,1,59,66,26,59,20
+ Barcelona,Messi,Successful Pass,2,1,64,21,58,23
+ Barcelona,Messi,Free kick,2,13,26,71,11,41
+ Barcelona,Messi,Successful Pass,2,20,62,49,61,23
+ Barcelona,Messi,Successful Pass,2,26,57,38,68,43
+ Barcelona,Messi,Successful Pass,2,33,54,74,48,68
+ Barcelona,Messi,Successful Pass,2,38,23,69,3,70
+ Barcelona,Messi,Unsuccessful Pass,2,45,42,37,38,43
+ Barcelona,Messi,Successful Pass,2,49,22,71,12,55
+ Barcelona,Messi,Successful Pass,3,16,43,23,43,12
+ Barcelona,Messi,Dribble,3,23,31,9,36,7
+ Barcelona,Messi,Successful Pass,3,27,36,2,46,4
+ Barcelona,Messi,Successful Pass,3,30,48,5,21,29
+ Barcelona,Messi,Successful Pass,3,37,46,24,50,35
+ Barcelona,Messi,Successful Pass,3,39,48,27,49,57
+ Barcelona,Messi,Successful Pass,3,47,39,31,48,38
+ Barcelona,Messi,Dribble,3,52,34,30,38,33
+ Barcelona,Messi,Successful Pass,3,54,35,37,17,77
+ Barcelona,Messi,Dribble,4,1,10,70,17,67
+ Barcelona,Messi,Successful Pass,4,2,18,68,24,54
+ Barcelona,Messi,Shot on Target,4,9,13,56,2,52
+ Barcelona,Messi,Dribble,4,12,31,38,25,34
+ Barcelona,Messi,Dribble,4,15,25,34,14,46
+ Barcelona,Messi,Dribble,4,23,18,38,17,45
+ Barcelona,Messi,Shot on Target,4,25,16,48,2,45
+ Barcelona,Messi,Dribble,4,43,55,21,52,19
+ Barcelona,Messi,Successful Pass,5,0,32,8,31,19
+ Barcelona,Messi,Successful Pass,5,3,37,11,28,1
+ Barcelona,Messi,Dribble,5,7,37,6,31,7
+ Barcelona,Messi,Successful Pass,5,13,42,34,13,72
+ Barcelona,Messi,Unsuccessful Pass,5,21,29,28,6,67
+ Barcelona,Messi,Dribble,5,30,3,95,9,95
+ Barcelona,Messi,Dribble,6,16,62,76,68,66
+ Barcelona,Messi,Shot off Target,6,20,84,49,99,37
+ Barcelona,Messi,Shot off Target,6,59,82,49,99,37
+ Barcelona,Messi,Successful Pass,7,10,65,64,61,53
+ Barcelona,Messi,Unsuccessful Pass,7,13,63,43,65,39
+ Barcelona,Messi,Successful Pass,7,19,64,50,59,45
+ Barcelona,Messi,Successful Pass,7,25,74,55,87,24
+ Barcelona,Messi,Goal,7,29,89,51,99,41
+ Barcelona,Messi,Successful Pass,8,3,54,65,57,52
+ Barcelona,Messi,Successful Pass,8,7,39,53,31,65
+ Barcelona,Messi,Successful Pass,8,10,54,75,51,80
+ Barcelona,Messi,Successful Pass,8,13,52,71,44,35
+ Barcelona,Messi,Successful Pass,8,19,73,73,88,69
+ Barcelona,Messi,Successful Pass,8,51,47,92,41,92
+ Barcelona,Messi,Unsuccessful Pass,8,54,45,96,48,94
+ Barcelona,Messi,Unsuccessful Pass,8,58,42,93,42,84
+ Barcelona,Messi,Dribble,9,20,57,82,58,74
+ Barcelona,Messi,Successful Pass,9,23,61,69,72,36
+ Barcelona,Messi,Unsuccessful Pass,9,28,76,45,79,38
+ Barcelona,Messi,Dribble,9,32,58,69,59,64
+ Barcelona,Messi,Successful Pass,9,40,61,35,66,53
+ Barcelona,Messi,Successful Pass,9,49,79,66,77,56
+ Barcelona,Messi,Unsuccessful Pass,9,53,71,44,82,32
+ Barcelona,Messi,Successful Pass,10,5,63,40,70,30
+ Barcelona,Messi,Successful Pass,10,17,48,74,41,87
+ Barcelona,Messi,Successful Pass,10,23,63,75,71,83
+ Barcelona,Messi,Successful Pass,10,29,63,75,58,84
+ Barcelona,Messi,Successful Pass,10,40,72,94,78,95
+ Barcelona,Messi,Successful Pass,10,44,39,23,39,33
+ Barcelona,Messi,Unsuccessful Pass,10,47,45,55,53,60
+ Barcelona,Messi,Dribble,10,53,63,96,75,95
+ Barcelona,Messi,Goal,11,9,92,54,99,59
