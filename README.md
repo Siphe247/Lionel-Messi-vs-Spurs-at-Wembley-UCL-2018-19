@@ -12,8 +12,8 @@ In one of my favourite Lionel Messi games in the UEFA Champions League, showcasi
 - ❌ Shots off Target(having hit the same woodwork twice)
 
 ![image_alt](https://github.com/Siphe247/Lionel-Messi-vs-Spurs-at-Wembley-UCL-2018-19/blob/682ac0258d5c5265a15b4793898f31002cfecb34/Lionel%20Messi%20Heat%20Map%20vs%20Tottenham%20in%20UCL%202018%3A19.png)
-
 📸Lionel Messi heat map vs Tottenham Hotspur in the 2018/19 UEFA Champions League, matchday 2
+
 
 ![till](https://github.com/Siphe247/Lionel-Messi-vs-Spurs-at-Wembley-UCL-2018-19/blob/2b2ba44a33104dca1bdc581c40be74538ba200b8/Messi%201st%20goal%20vs%20Spurs.webp)
 
